@@ -1,7 +1,7 @@
 {
-  "name": "typescript-hello-world",
+  "name": "langchain-vertex-bug",
   "version": "1.0.0",
-  "description": "A simple TypeScript hello world project",
+  "description": "Langchain bug demo",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
